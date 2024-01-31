@@ -1,0 +1,90 @@
+**/build/
+**/gradle/
+**/test/
+**/androidTest/
+**/libs/
+**/proguard/
+
+*.png
+*.pro
+*.bat 
+*.log
+*.properties
+*.db
+
+# Gradle files
+*.gradle
+**/gradlew
+
+# Android Studio generated files and folders
+captures/
+*.externalNativeBuild/
+*.cxx/
+*.apk
+**/output.json
+
+# IntelliJ
+*.iml
+.idea/
+**/misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Android Profiling
+*.hprof
+
+# Thumbnails
+._*
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+
+# Android Studio
+*.iml
+*.idea/
+
+
+# Firebase config
+google-services.json
+
+# Keystore files
+*.jks
+*.keystore
+
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.suo
+*.sln.docstates

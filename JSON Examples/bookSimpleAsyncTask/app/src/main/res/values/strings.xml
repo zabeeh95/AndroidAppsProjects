@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Simple Async Task</string>
+    <string name="napping">napping .....</string>
+</resources>
