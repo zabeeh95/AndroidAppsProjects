@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pBroadcastReciever</string>
+    <string name="unknown_action">not known which is clicked inside if statement</string>
+    <string name="power_connected">conn</string>
+    <string name="power_disconnected">nor conn</string>
+    <string name="custom_broadcast_toast">custom</string>
+</resources>
