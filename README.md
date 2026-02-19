@@ -10,7 +10,9 @@ The purpose of these projects is to strengthen understanding of Android fundamen
 
 
 
-🚀 Technologies Used
+
+
+**🚀 Technologies Used**
 
 
 
@@ -42,7 +44,9 @@ Firebase (if used in any project)
 
 
 
-📌 Topics Covered
+
+
+**📌 Topics Covered**
 
 
 
@@ -78,7 +82,9 @@ Gradle Build System
 
 
 
-🛠 How to Run
+
+
+**🛠 How to Run**
 
 
 
@@ -104,7 +110,9 @@ Run on emulator or physical device
 
 
 
-🎯 Purpose
+
+
+**🎯 Purpose**
 
 
 
